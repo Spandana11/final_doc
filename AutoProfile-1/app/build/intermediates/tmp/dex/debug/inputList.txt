@@ -1,0 +1,5 @@
+C:\Users\spandana\Desktop\AutoProfile-1\app\build\intermediates\classes\debug
+C:\Users\spandana\Desktop\AutoProfile-1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-76ae237140615be2c3d4efc3c8b104fdb10b7675.jar
+C:\Users\spandana\Desktop\AutoProfile-1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-9efef502698c5fa556bd9f03383a573e6f0862ec.jar
+C:\Users\spandana\Desktop\AutoProfile-1\app\build\intermediates\pre-dexed\debug\classes-f3b50b8e482a4c0f50c18266174656295914c3f1.jar
+C:\Users\spandana\Desktop\AutoProfile-1\app\build\intermediates\pre-dexed\debug\classes-ca513375b4cc4fbc8f9ef7c24c4d172aa61ddd8b.jar
